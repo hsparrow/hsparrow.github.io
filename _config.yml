@@ -1,6 +1,8 @@
 layout: sidebar
 style: light
 
+remote_theme: ankitsultana/researcher@gem
+
 plugins:
   - jekyll-octicons
   - jekyll-github-metadata
