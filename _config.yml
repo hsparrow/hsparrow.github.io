@@ -16,11 +16,11 @@ sass:
 
 nav:
  - name: "About"
-   link: "/personal-website/"
+   link: "index.md"
  - name: "Blog"
-   link: "/_posts/"
+   link: "_posts/"
  - name: "Projects"
-   link: "/projects/"
+   link: "projects/"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
