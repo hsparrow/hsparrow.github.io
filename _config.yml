@@ -1,5 +1,5 @@
 title: Mind Funk
-# baseurl: "/researcher"
+baseurl: "/personal-website"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -16,9 +16,9 @@ sass:
 
 nav:
  - name: "About"
-   link: "about/resume.pdf"
+   link: "/personal-website/"
  - name: "Blog"
-   link: "_posts/2019-01-29-hello-world.md"
+   link: "/_posts/2019-01-29-hello-world.md"
  - name: "Projects"
    link: "projects/resume.pdf"
  - name: "Resume"
