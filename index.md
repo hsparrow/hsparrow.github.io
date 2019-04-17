@@ -6,24 +6,10 @@ layout: default
 
 <img class="profile-picture" src="files/hang.JPG">
 
-Hi! I am a second year graduate student of Heinz College at Birla Carnegie Mellon University.
+Hi! I am a second-year graduate student in Information Technology at Carnegie Mellon University. Before CMU, I got a B.Sc. in Engineering from the Renmin University of China, where I majored in Information Systems and Management. I worked at Gas Turbine Establishment of China as an aero-engineer, working on testing and processing aero-dynamics and aero-acoustic signals. Dealing with different text dominant tasks these years has cultivated my interest in natural language processing. More specificly, I'm interested in building machine learning and deep learning models to understand human language. 
 
-## Typography
+##Contact
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
+* Email: hangz1@andrew.cmu.edu
+* Github: @hsparrow
+* Twitter: @hsparrow6
