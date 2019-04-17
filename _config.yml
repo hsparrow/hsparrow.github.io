@@ -16,10 +16,10 @@ sass:
 
 nav:
  - name: "About"
-   link: "index"
+   link: "/index"
  - name: "Blog"
-   link: "blog"
+   link: "/blog"
  - name: "Projects"
-   link: "projects/resume.pdf"
+   link: "/projects/resume.pdf"
  - name: "Resume"
-   link: "resume.pdf"
+   link: "/resume.pdf"
