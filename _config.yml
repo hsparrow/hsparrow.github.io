@@ -18,7 +18,7 @@ nav:
  - name: "About"
    link: "index"
  - name: "Blog"
-   link: "/_posts/2019-01-29-hello-world"
+   link: "_posts/2019-01-29-hello-world"
  - name: "Projects"
    link: "projects/resume.pdf"
  - name: "Resume"
