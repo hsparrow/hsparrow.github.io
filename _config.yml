@@ -1,5 +1,6 @@
 title: HANG ZHAO
-baseurl: "/index"
+url: "https://hsparrow.github.io"
+# baseurl: "/index"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
