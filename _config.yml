@@ -20,6 +20,6 @@ nav:
  - name: "Blog"
    link: "/blog"
  - name: "Projects"
-   link: "/projects/resume.pdf"
+   link: "/projects/hang_resume.pdf"
  - name: "Resume"
-   link: "/files/resume.pdf"
+   link: "/files/hang_resume.pdf"
