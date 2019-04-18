@@ -14,4 +14,4 @@ I have wide interest in natural language processing tasks. More specificly, I'm 
 
 * Email: hangz1@andrew.cmu.edu
 * Github: [@hsparrow](<https://github.com/hsparrow>)
-* Twitter: [@hsparrow6](<https://twitter.com/hsparrow6>)
+* Twitter: [@hsparrow](<https://twitter.com/hsparrow6>)
