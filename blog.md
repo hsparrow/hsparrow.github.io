@@ -2,22 +2,19 @@
 layout: default
 ---
 
-# [blog1](blog/2011-12-31-blog1.md)
+# [Object Detection Part 3a: Traditional Methods](blog/object detection/Object-Detection-Part 3a.md)
 
-Lorem ipsum dolor sit amet, commodo dignissim vim et, mei principes aliquando ex. Ex populo graeco consectetuer quo. Eu facete qualisque mea, veri solum ei eos. Cu sit vocent aperiri, ex modus errem legendos mea. In habeo denique fastidii vis, ea nec partem deleniti voluptaria. Vix ut stet liber efficiantur, at per decore deseruisse. Te vel liber corpora, cu copiosae lobortis has, cu verear integre vim.
+> This part introduces 3 traditional methods for object detection: VJ Detector, HOG, and DPM.
 
-# [blog2](blog/2011-12-31-blog2.md)
+# [Object Detection Part 2: Benchmark Metrics and Datasets](blog/object detection/Object-Detection-Part 2.md)
 
-Mea ne tibique expetenda, corrumpit argumentum in eum. Ex sea commodo adipisci. Id melius verterem usu, eos te unum apeirian vituperatoribus. Vim at lorem delenit suavitate, propriae perpetua eum ex, has iudico utamur conceptam eu. Discere mandamus elaboraret nam eu, ea aliquid debitis has, elitr lucilius omittantur at eam.
+> In this part, we will take a look at several benchmark metrics and datasets for object detection task.
 
-# [blog3]()
+# [Object Detection Part 1: Basic Concepts](blog/object detection/Object-Detection-Part 1.md)
 
-Ad inani dissentiet est. Debet perfecto ad vel, vitae legimus his an. No quod contentiones duo, te autem fugit pericula quo. Nostro minimum delicata eu per, vidit volumus assueverit eam et, etiam munere mediocritatem eu his.
+> This part illustrates the definition of object detection task. Some basic concepts of image and image processing are introduced.
 
-# [blog4]()
+# [Object Detection: Intro](blog/object detection/Object-Detection-Intro.md)
 
-Legendos patrioque nam ei, et dicant dissentiet vel. Pro officiis laboramus accommodare eu, eruditi insolens adolescens at nam, enim graeci vix te. Te praesent consequat est, et dolores offendit atomorum pri, ex eum tale aliquid. Ei option officiis usu, eum ei atomorum periculis. Quo ad facer dicit principes. Ne quidam forensibus est.
-
-# [blog5]()
-
-No graeco iisque pertinax mei, ei tota incorrupte quo. Cu probo labore vituperata nec, id dolor persecuti vel, pro ea inermis delectus definiebas. Id qui dico eruditi philosophia, cu fastidii accusamus vel. Tempor dictas meliore quo ne.
+> In this series of blogs, we will go through the object detection task in computer vision. It covers some basic image processing concepts, benchmark metrics and datasets, as well as typical solutions. 
+>
